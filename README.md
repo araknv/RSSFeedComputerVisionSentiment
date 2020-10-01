@@ -1,3 +1,3 @@
 # RSSFeedComputerVisionSentiment
 
-This script reads RSS files and analyses the sentiment of articles in the feed
+This script uses Azure Coomputer Vision to classigy immages and find sentiment of data in the RSS feed
